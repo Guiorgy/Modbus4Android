@@ -1,6 +1,7 @@
 package com.licheedev.demo.utils;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
+
 import io.reactivex.Observable;
 import io.reactivex.ObservableSource;
 import io.reactivex.ObservableTransformer;
